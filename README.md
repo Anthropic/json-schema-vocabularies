@@ -13,7 +13,7 @@ For instance, not all programming languages have constructs that map well to eve
 
 ### JSON UI Schema
 
-Goal:  To allow building UIs from a schema, mapping validation keywords to UI widgets, and hyper-schema links to form submission attributes and/or multi-form workflows.  The [json-schema-form](https://github.com/json-schema-form/json-schema-form) project is the princpal starting point for this work.
+Goal: To allow building UIs from a schema, mapping validation keywords to UI widgets, hyper-schema links to form submission attributes and/or multi-form workflows, to work with properties needed to manage the UI that are not part of the data model and to provide some UI expectations for when only a core or validation schema are provided. The [json-schema-form](https://github.com/json-schema-form/json-schema-form) project is the initial driver for this work, however there is no pre-determined solution for this vocabulary based on that project and everything is up for discussion.
 
 Editor: @Anthropic
 
